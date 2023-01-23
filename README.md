@@ -1,6 +1,6 @@
 # Assignment 4
 
-![Assignment 4](https://github.com/PGE383-HPC/assignment4-solution/actions/workflows/main.yml/badge.svg)
+![Assignment 4](https://github.com/PGE383-HPC/assignment4/actions/workflows/main.yml/badge.svg)
 
 The aim of this assignment is to continue familiarization basic Unix commands, in particular the grep command. 
 
